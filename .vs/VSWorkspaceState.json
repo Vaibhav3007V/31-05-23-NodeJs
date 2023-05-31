@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\controllers",
+    "\\src\\database",
+    "\\src\\database\\scripts",
+    "\\src\\middlewares",
+    "\\src\\models",
+    "\\src\\routes",
+    "\\src\\utils",
+    "\\src\\validators"
+  ],
+  "SelectedNode": "\\src\\database\\queries.js",
+  "PreviewInSolutionExplorer": false
+}
