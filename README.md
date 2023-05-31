@@ -52,3 +52,5 @@ Bearer : Token key
 * bcryptjs: Password security
 * winston/morgan: Logs
 * Joi: Validations
+
+Rename the file named `.env.example` to `.env` and update the variable values with valid ones
