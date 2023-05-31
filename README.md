@@ -53,4 +53,4 @@ Bearer : Token key
 * winston/morgan: Logs
 * Joi: Validations
 
-Rename the file named `.env.example` to `.env` and update the variable values with valid ones
+Rename the file named `.env` and update the variable values with valid ones
